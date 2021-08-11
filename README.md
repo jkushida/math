@@ -1,4 +1,4 @@
-# math
+# math1
 
 https://jkushida.github.io/math
 
