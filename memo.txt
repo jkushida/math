@@ -1,0 +1,46 @@
+
+ベクトルと空間座標の基本1
+ベクトルと空間座標の基本2
+行列計算1
+行列計算2
+行列計算3
+行列式1
+行列式2
+中間まとめ
+連立一次方程式1
+連立一次方程式2
+線形空間 1
+線形空間 2
+行列の標準形 1
+行列の標準形 2
+総合演習
+まとめ
+
+
+基礎数学IIでもベクトル
+進数1
+進数2
+二次関数1
+二次関数2
+微分1
+微分2
+微分3
+中間まとめ1
+中間まとめ2
+積分1
+積分2
+ベクトル
+行列と行列式1
+行列と行列式2
+総合演習
+
+
+
+
+03_02 Python 配列 その２（クラス配列／2重ループ／行列計算／連立方程式）（著者による動画です。）
+https://www.youtube.com/watch?v=ce565KQtUBw&list=PLKZuV-v1EFP9Xxw7enmvEUoaWD2pxLEDM&index=6
+
+
+2021年度　線形代数学第一・演習 A(1-7)   Linear Algebra I / Recitation A(1-7)
+
+http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110800&KougiCD=202100071&Nendo=2021&lang=JA&vid=05
