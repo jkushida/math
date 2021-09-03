@@ -1,5 +1,5 @@
-# math
+# math1
 
-https://jkushida.github.io/math
+https://jkushida.github.io/math1
 
 test
