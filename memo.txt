@@ -36,6 +36,20 @@
 
 
 
+studyで知らせる共有フォルダ
+Pyton
+https://drive.google.com/drive/folders/1gIon_YOF3yvKmF0h0odQzAmQTspT2cgJ?usp=sharing
+
+
+Sympy 　数学
+https://www.goethekyodai.xyz/entry/kyodai-math-programming-2018#%E5%95%8F%E9%A1%8C%EF%BC%91
+
+重要！
+芝浦工業大資料　課題あり！
+http://www.sic.shibaura-it.ac.jp/~hmatsuda/algebra1/
+
+
+https://nbviewer.jupyter.org/github/daddygongon/jupyter_num_calc/blob/master/symbolic_math/README.html
 
 03_02 Python 配列 その２（クラス配列／2重ループ／行列計算／連立方程式）（著者による動画です。）
 https://www.youtube.com/watch?v=ce565KQtUBw&list=PLKZuV-v1EFP9Xxw7enmvEUoaWD2pxLEDM&index=6
